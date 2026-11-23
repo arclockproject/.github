@@ -1,5 +1,3 @@
-Open source projects by [Artur Wagner](https://arturwagner.co.uk).
-
 | Project | What it is | Links |
 |---|---|---|
 | **mono** | React components and TypeScript libraries on npm. | [Docs](https://arclockproject.org)&nbsp;\|&nbsp;[npm](https://www.npmjs.com/org/arclockproject) |
